@@ -1,0 +1,15 @@
+#box{
+    background-color: blanchedalmond;
+    height: 400px;
+    width: 700px;
+    visibility: hidden;
+}
+body{
+    background-color: aqua;
+}
+#box.show{
+    visibility: visible;
+}
+.cross{
+    float: right;
+}
